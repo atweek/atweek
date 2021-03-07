@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Ramil
-### Hi there 👋, my name is Ramil
 #### I am a student
 I'll add it later
 
