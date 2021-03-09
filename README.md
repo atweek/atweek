@@ -14,4 +14,6 @@ Skills: python / С
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atweek&show_icons=true)
 
+[![atweek's 42 stats](https://badge42.herokuapp.com/api/stats/wquinoa?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+
 ![Profile views](https://gpvc.arturio.dev/atweek)  
