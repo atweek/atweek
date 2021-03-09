@@ -2,7 +2,7 @@
 #### I am a student
 I'll add it later
 
-Skills: python / С
+Skills: python / С / linux
 
 - 🌱 I’m currently learning School 21 
 - 📫 How to reach me: Moscow 
