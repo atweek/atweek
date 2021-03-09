@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Ramil
 #### I am a student
-I'll add it later
+
+I’m currently working on "cub3D" of the 42 cursus
+Looking into qt on the side.
 
 Skills: python / С / linux
 
