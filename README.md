@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ramil
 #### I am a student
 
-I’m currently working on "cub3D" of the 42 cursus
+I’m currently working on diploma via pyQT
 
 Looking into qt on the side.
 
