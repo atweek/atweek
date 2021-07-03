@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Ramil
 #### I am a student
 
-I’m currently working on diploma via pyQT
-
 Looking into qt on the side.
 
 Skills: python / С / linux
